@@ -1,0 +1,4 @@
+Input: Stanford
+
+Output
+res1: Array[String] = Array(axPZazfSZFnynOV52mbe2Q, S506FIQdswKA0anIlQSF_g, oaOhLSd0wLBh0TwDc4u1fg, Qxn26fUlD3e6QOgjt0T1nA, AbB1MOLe_qylcAoRZMe1UA, 9rdigHXd49AKYopcG9-Mnw, 7R0qrKQbwkbRQNFGc5tDcQ)

@@ -1,0 +1,1 @@
+mahout spark-itemsimilarity --input /sxc149730/input/review3.csv --output /sxc149730/output/ --maxSimilaritiesPerItem 5 --inDelim "::" --rowIDColumn 8 --itemIDColumn 2 --filterColumn 20 --filter1 "4" --elementDelim ","

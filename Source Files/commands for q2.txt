@@ -1,0 +1,5 @@
+Question 2a
+spark-shell
+
+Question 2b
+spark-shell --master yarn-client --executor-memory 2G --executor-cores 6 --num-executors 6
