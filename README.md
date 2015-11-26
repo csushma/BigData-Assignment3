@@ -1,6 +1,8 @@
 # BigData-Assignment3
 Spark-Implementation
 
+Please read the PDF file for the question.
+
 Please use below link to get the data
 
 https://drive.google.com/folderview?id=0B0vdRkcBHx41NnlhZ0hOeEZCYms&usp=sharing
